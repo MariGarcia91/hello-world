@@ -18,6 +18,8 @@
 # Como manera de gestionar el tiempo, 
 #  vamos a considerar la realización de cualquiera de las acciones o actividades como una iteración temporal ⏱️. 
 
+
+
 # 🍙🍡 DAR DE COMER 🍡🍙 
 
 # El STEMgotchi no puede comer si hay alguna caca 💩 a su alrededor: ¡Qué asco!
@@ -118,8 +120,10 @@ print("\nSa morio D.E.P")
     
 
 
-
-
+# proebas de caca
+#kjhxskvghxkvjkxfd
+#cacacacacacacacacacacacacacacacac
+#cacacacacacacacacacaca
 
 
 
